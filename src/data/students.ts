@@ -55,7 +55,12 @@ export const students: Student[] = [
     name: "Abdullah Rajput",
     website: "https://abdullahr.com/",
     pfp:"assets/pfps/abdullah-rajput.jpeg"
-  }
+  },
+  {
+    name: "Sean Yang",
+    website: "https://seanyang.me",
+    pfp: "assets/pfps/sean-yang.jpg"
+  },
   // Add your name right above this comment!
   // Example:
   // {
